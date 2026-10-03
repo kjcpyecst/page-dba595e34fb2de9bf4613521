@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ddcea47bdfefe407f62ea255",
+  "owner": "kjcpyecst",
+  "repo": "page-dba595e34fb2de9bf4613521",
+  "title": "云帆",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dba595e34fb2de9bf4613521",
+      "a": "云帆",
+      "b": "",
+      "entity": "云帆",
+      "brand": "云帆",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1d0f3d3fe029905f6b6d45020aeea6bfe641a96e9440f42f6e0b17debf582726",
+      "content": {
+        "keyword1": "云帆",
+        "keyword2": "",
+        "primary_entity": "云帆",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云帆提供稳定高速的VPN与机场订阅服务，支持多端客户端下载，解锁流媒体、优化游戏延迟，是您跨境上网的可靠选择。访问云帆官网获取最新节点与官方下载。",
+          "AI_DESCRIPTION": "云帆提供稳定高速的VPN与机场订阅服务，支持多端客户端下载，解锁流媒体、优化游戏延迟，是您跨境上网的可靠选择。访问云帆官网获取最新节点与官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;background:#f3f4f6;color:#111827;font-size:17px;line-height:1.7;overflow-x:hidden}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:#5b21b6;color:#fff;padding:12px 16px}.nav{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 18px;max-width:1100px;margin:0 auto}.nav a{color:#fff;font-weight:600}.wrap{max-width:1000px;margin:0 auto;padding:0 16px}main{padding-bottom:48px}h1{font-size:1.85rem;text-align:center;margin:28px 0 12px;color:#4c1d95;line-height:1.35}h2{font-size:1.42rem;color:#5b21b6;margin:36px 0 16px;padding-bottom:8px;border-bottom:2px solid #ddd6fe}h3{font-size:1.12rem;color:#6d28d9;margin:18px 0 8px}.lead{text-align:center;max-width:740px;margin:0 auto 28px;color:#374151}.stagger{display:flex;flex-wrap:wrap;gap:20px;margin:24px 0;align-items:stretch}.stagger .col{flex:1 1 280px;background:#fff;padding:20px;border-radius:8px;border:1px solid #e5e7eb}.stagger.reverse{flex-direction:row-reverse}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin:20px 0}.plan{flex:1 1 240px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:20px;max-width:320px}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.plan h3{margin-top:0;text-align:center}.price{font-size:1.55rem;font-weight:700;color:#6d28d9;text-align:center;margin:8px 0}.annual{font-size:0.92rem;color:#6b7280;text-align:center;margin-bottom:12px}.plan ul{padding-left:20px;margin:0}.plan li{margin:6px 0}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-left:4px}.clients{background:#fff;padding:20px;border-radius:8px;border:1px solid #ddd6fe}.faq details{background:#fff;margin:10px 0;padding:12px 16px;border-radius:6px;border:1px solid #e5e7eb}.faq summary{font-weight:600;color:#4c1d95}.faq p{margin:10px 0 0;color:#374151}footer{background:#1f2937;color:#d1d5db;padding:24px 16px;font-size:0.9rem;text-align:center}footer a{color:#c4b5fd}.adbox,.linksbox{background:#ede9fe;padding:16px;border-radius:8px;margin:24px 0;text-align:center}@media(max-width:600px){h1{font-size:1.48rem}.nav{font-size:0.95rem}.plan{max-width:100%}}</style><header><nav class=\"nav\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">节点性能</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></header><main class=\"wrap\"><h1>云帆官方网站 · 高速VPN加速器与机场订阅</h1><p class=\"lead\">云帆专注跨境网络加速，提供机场订阅、多端客户端兼容与稳定节点。本站为云帆官网，便于您了解套餐、选择客户端并完成配置导入。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"stagger\"><div class=\"col\"><p>云帆是面向个人与团队的网络加速服务，核心是机场订阅与客户端导入。用户按套餐获取专属订阅地址，在常用工具中更新配置后即可切换全球节点，用于浏览、流媒体、协作与游戏加速。</p><p>我们强调线路质量与日常可用性：普通节点覆盖常用地区，旗舰与团队线路加入游戏优化与更高带宽资源。官方身份仅以本站公布的套餐与说明为准，避免通过来路不明的渠道获取所谓“官网下载”。</p></div><div class=\"col\"><h3>服务原则</h3><p>订阅即配置，不捆绑来源不明的安装包。客户端请从各工具原作者或可信开源渠道获取，云帆只提供订阅与节点策略说明。</p><p>基础版面向轻度使用，旗舰版面向流媒体与游戏，团队版面向多设备与定制路由。流量按自然月计算，设备数按套餐上限同时在线。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前公开档位，年付可锁定更低月均成本。购买完成后即可在账户中复制订阅链接，用于各客户端。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"col\"><h3>流媒体与内容访问</h3><p>旗舰版与团队版侧重原生解锁能力，适合连续观看常见海外平台。若遇个别节目限制，可在客户端中更换同区域节点后重试，无需反复重装软件。</p></div><div class=\"col\"><h3>游戏与实时应用</h3><p>游戏加速依赖专线与低抖动节点。旗舰版标注的 IPLC 优化更适合对延迟敏感的对战与下载；团队版额外提供高带宽 VIP 节点，便于多人同时在线。</p></div></div><div class=\"stagger\"><div class=\"col\"><h3>远程办公与协作</h3><p>访问海外文档、代码仓库与会议工具时，稳定比单纯“跑分”更重要。建议固定一条质量较好的线路，并在客户端开启规则分流，让国内站点直连。</p></div><div class=\"col\"><h3>多设备家庭或小团队</h3><p>按同时在线台数选择套餐，手机、电脑与电视盒子可共用同一订阅。超出上限时优先下线闲置设备，或升级到团队版并划分成员路由。</p></div></div></section><section id=\"clients\"><h2>客户端选择与官网下载指引</h2><p>云帆机场订阅兼容主流代理客户端。本站强调“客户端选择”：先选对工具，再导入订阅，而不是寻找来路不明的一体包。下列说明帮助您按系统完成官方下载与配置。</p><div class=\"clients\"><h3>Windows</h3><p>常用 Clash Verge 或 v2rayN。从项目发布页获取安装包，打开后进入订阅栏，粘贴云帆提供的订阅地址并更新。连接前先选规则模式，避免全局干扰国内网站。</p><h3>macOS</h3><p>可选 ClashX Meta 或 Surge。导入订阅后检查系统代理是否被正确接管。若仅需浏览器加速，可搭配系统或浏览器分流，减少无关应用走代理。</p><h3>Android</h3><p>推荐 Clash Meta for Android 或 v2rayNG。安装后允许 VPN 权限，添加订阅并更新节点列表。移动网络与 Wi-Fi 切换后如未自动重连，在客户端内手动开启即可。</p><h3>iOS</h3><p>常用 Shadowrocket、Stash 或 Quantumult X（需自行在应用商店获取）。导入订阅后建议开启分流规则。iOS 对后台 VPN 较严格，锁屏较久后重新点一次连接属正常现象。</p><h3>Linux 与其它</h3><p>可使用 clash 核心或兼容内核，配合配置文件或订阅转换。命令行用户注意权限与开机自启，避免把订阅明文提交到公开仓库。</p></div></section><section id=\"guide\"><h2>操作说明</h2><h3>从订阅到连上的步骤</h3><ol><li>在套餐中选定档位，完成订阅后复制专属链接（请勿公开分享）。</li><li>根据上一节下载对应客户端，仅使用可信发布来源。</li><li>在客户端添加订阅、更新节点，选择靠近目标站点的线路。</li><li>先用规则模式测试网页与应用，确认国内流量未全部走代理。</li><li>流媒体或游戏若异常，切换同区域其它节点，或改用旗舰/团队中的优化线路。</li></ol><h3>日常维护</h3><p>节点会不定期调整，客户端内定期更新订阅即可。流量将尽时提前升级，避免高峰被限速。设备更换后删除旧配置，防止订阅泄露后被他人占用在线名额。</p></section><section id=\"nodes\"><h2>节点与性能说明</h2><p>云帆节点覆盖香港、日本、新加坡、美国、台湾及部分欧洲入口，普通池满足浏览与轻度视频，旗舰增加原生解锁与游戏向专线，团队版提供更高带宽的 VIP 入口。</p><p>实际速度受本地宽带、时段与目标站点影响。我们不公布虚构评分，建议以您常用应用实测：打开目标网站或游戏，观察延迟与缓冲。工单优先处理旗舰与团队用户的线路异常。</p></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>如何获取云帆订阅并在客户端里使用？</summary><p>完成套餐后即可复制专属订阅地址。打开已安装的客户端，进入订阅或配置页面粘贴该地址并更新，随后选择节点连接。链接等同账号凭证，不要发到群组或网盘。</p></details><details><summary>各套餐同时在线设备数如何理解？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台，按同时建立的代理连接计算。手机与电脑同时开着即占用两台。超限时请先断开闲置设备，或升级档位。</p></details><details><summary>能否解锁常见流媒体？基础版和旗舰版差别大吗？</summary><p>基础版覆盖部分基础平台，旗舰与团队强调全节点原生解锁。若某部影片仍提示地区限制，请更换同区域节点并清除应用缓存后再试。</p></details><details><summary>游戏加速是否包含 IPLC？适合哪些用户？</summary><p>旗舰版包含 IPLC 专线游戏优化，适合对延迟敏感的对战与更新下载。团队版另有 VIP 高带宽节点。休闲网页游戏通常普通节点即可。</p></details><details><summary>流量用尽后会立刻停网吗？怎样升级？</summary><p>当月额度用完后可能限速或暂停加速，次月重置。可补差价升级到更高档位。未用完流量一般不结转，请按实际用量选档，避免长期闲置大流量套餐。</p></details><details><summary>云帆官网提供客户端安装包下载吗？</summary><p>不提供第三方客户端打包，以免被仿冒站点夹带不明程序。请自行前往各客户端官方或开源发布页下载，再仅导入云帆订阅。这是本站强调客户端选择的原因。</p></details><details><summary>新用户是否支持退款？工单如何联系？</summary><p>短期内几乎未使用且符合规则的订单可申请协商退款，具体以工单答复为准。旗舰版享有优先工单，团队版配备客户经理跟进定制路由需求。</p></details></section><section id=\"ads\" class=\"adbox\"><h2>广告位</h2><p>云存储与域名组合优惠（展示合作信息）。<a href=\"#\">查看合作说明</a></p></section><section id=\"links\" class=\"linksbox\"><h2>友情链接</h2><p><a href=\"#\">网络工具手册</a> · <a href=\"#\">分流规则讨论</a> · <a href=\"#\">隐私与安全阅读</a> · <a href=\"#\">开源客户端目录</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>云帆官方网站 · 机场订阅与 VPN 网络加速服务说明页</p><p>本站公布套餐、客户端指引与节点策略。下载客户端请使用各工具官方来源，订阅仅从云帆账户获取。</p><p><a href=\"#intro\">返回简介</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#faq\">FAQ</a></p></footer>",
+          "hash": "63947e1f56355dd3d5d0eaa1d9a66dc8ae8eba5d5f4689b460dadd7da68086fc",
+          "seo": {
+            "title": "云帆官网 - VPN梯子网络加速器与机场客户端下载",
+            "keywords": "云帆,云帆VPN,云帆机场,VPN加速器,网络加速梯子,客户端下载,官方下载,机场订阅,IPLC加速",
+            "description": "云帆提供稳定高速的VPN与机场订阅服务，支持多端客户端下载，解锁流媒体、优化游戏延迟，是您跨境上网的可靠选择。访问云帆官网获取最新节点与官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nnnnmm.cn",
+    "host": "p-8ea5d27e5b.nnnnmm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nnnnmm.cn",
+      "url": "https://nnnnmm.cn/",
+      "label": "下北沢红茶馆",
+      "apex": "nnnnmm.cn",
+      "kind": null,
+      "identity": "akmahkpc/page-a5fba630d6e2e1dbb1a0dc5c"
+    },
+    {
+      "host": "kaliyunjc.com",
+      "url": "https://kaliyunjc.com/",
+      "label": "云帆",
+      "apex": "kaliyunjc.com",
+      "kind": null,
+      "identity": "kcmgexnmk/page-3d9e48967a61a8d8cb875b29"
+    },
+    {
+      "host": "mitpadz.cn",
+      "url": "https://mitpadz.cn/",
+      "label": "云帆",
+      "apex": "mitpadz.cn",
+      "kind": null,
+      "identity": "rrwvhebydh/page-802bdeb7a881d77b3b16896e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2ec380b3a7187d5dd199e782f976bc2f3b76eb85c8432ac1d0ec50d0cd003622",
+    "sitemap.xml": "259d6ff688efca37d979e800127ab579ccdbf03badbf753081c43c8ce1162064",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "63f12210153d8e4202b21541e96ea7859620d0246055728418200f2fc28aa13d",
+    "robots.txt": "eecfe46e10b41aeb520dbc3155e315b82f2ba19a3a76b2c8dbaddd2b05ccd978",
+    "561b4b9939bae3a6fc744a713a07a197.txt": "7f1682240c875b278a8179b038149750a05f287378edd05307b75e6c317a0783"
+  },
+  "revision": "cc1b5588df836a283f8bf19c9d165c69a0a501df0649129c92db95e56ddf679d"
+}
